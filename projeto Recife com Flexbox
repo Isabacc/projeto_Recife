@@ -1,0 +1,48 @@
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marco Zero - Recife</title>
+    <style>
+        body {
+            font: 16px 'Comic Sans MS', cursive;
+            margin: 0;
+            padding: 0;
+            background: #f9f2eb;
+            display: flex; /* Tornar o corpo um flex container */
+            flex-direction: column; /* Alinhar elementos verticalmente */
+            align-items: center; /* Centralizar horizontalmente */
+            justify-content: center; /* Centralizar verticalmente */
+            min-height: 100vh; /* Altura mínima da viewport */
+        }
+        
+        header {
+            text-align: center;
+            background: #ff6b6b;
+            color: #fff;
+            padding: 15px 0;
+        }
+        
+        /* Resto do seu código aqui */
+        
+        footer {
+            text-align: center;
+            padding: 15px;
+            background: #ff6b6b;
+            color: #fff;
+        }
+        
+        a {
+            color: #ff6b6b;
+            text-decoration: none;
+            transition: color 0.3s ease-in-out;
+        }
+        
+        a:hover {
+            color: #db4c4c;
+        }
+    </style>
+</head>
+<body>
+</body>
+</html>
