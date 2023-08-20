@@ -1,0 +1,30 @@
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Outros Pontos Turísticos - Recife</title>
+</head>
+<body>
+    <header>
+        <h1><span role="heading" aria-level="1">Outros Pontos Turísticos - Recife</span></h1>
+    </header>
+
+    <p><span role="text">Conheça mais dois incríveis pontos turísticos no Recife Antigo:</span></p>
+    
+    <h2><span role="heading" aria-level="2">Praça do Arsenal</span></h2>
+    <p><span role="text">A Praça do Arsenal é um espaço histórico e cultural que abriga eventos culturais e artísticos, além de possuir uma arquitetura encantadora.</span></p>
+    <img src=https://www2.recife.pe.gov.br/sites/default/files/styles/imagem_slide_home/public/18.02.2020_-_central_artesanato_carnaval_-_foto_inaldo_lins_pcr_61.jpg?itok=l8_NpG3Q
+         alt="Imagem da Praça do Arsenal">
+    
+    <h2><span role="heading" aria-level="2">Cais do Sertão</span></h2>
+    <p><span role="text">O Cais do Sertão é um museu interativo que homenageia a cultura nordestina, especialmente a vida do sertanejo, através de exposições e experiências sensoriais.</span></p>
+    <img src=https://vidasemparedes.com.br/wp-content/uploads/2020/07/caisdosertao-vidasemparedes-6.jpg
+         alt="Imagem do Cais do Sertão">
+    
+    <p><a href="marco_zero.html">Voltar ao Marco Zero</a></p>
+    
+    <footer>
+        <p><span role="note">&copy; 2023 Copyright</span></p>
+    </footer>
+</body>
+</html>
