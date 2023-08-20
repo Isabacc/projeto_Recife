@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marco Zero - Recife</title>
+</head>
+<body>
+    <header>
+        <h1><span role="heading" aria-level="1">Marco Zero - Recife</span></h1>
+    </header>
+
+        <p><span role="text">O Marco Zero é um ponto turístico icônico em Recife, localizado no centro histórico da cidade. Ele marca o início das medições das distâncias rodoviárias a partir de Recife.</span></p>
+        <p><span role="text">Além de sua importância geográfica, o local oferece uma vista incrível do porto e é palco de diversas atividades culturais.</span></p>
+      <main>
+        <img src=https://recife.oguiaturistico.net/wp-content/uploads/2022/06/248b8cf6-eaa1-4879-b15d-f0dc2c1ac55a.jpeg alt="Imagem do Marco Zero">
+    <footer>
+        <p><span role="note">&copy; 2023 Copyright</span></p>
+    </footer>
+</body>
+</html>
